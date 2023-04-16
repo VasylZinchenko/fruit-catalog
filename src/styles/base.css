@@ -1,0 +1,19 @@
+body {
+  @apply bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-200;
+}
+
+h1 {
+  @apply text-3xl;
+}
+
+main {
+  @apply max-w-5xl m-auto  grid-cols-2;
+}
+
+.fruits-list {
+  @apply grid-cols-2 grid gap-4 max-w-5xl ml-auto mr-auto mt-10 pl-10 pr-10 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 w-screen;
+}
+
+.main-header {
+  @apply flex justify-between mt-5;
+}
