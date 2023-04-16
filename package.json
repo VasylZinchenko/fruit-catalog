@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@jamescoyle/vue-icon": "^0.1.2",
+    "@intlify/unplugin-vue-i18n": "^0.10.0",
     "@mdi/js": "^7.2.96",
     "mdi-vue": "^3.0.13",
     "pinia": "^2.0.34",
@@ -24,7 +25,6 @@
     "@iconify/iconify": "^3.0.1",
     "@iconify/json": "^2.1.153",
     "@iconify/vue": "^4.1.1",
-    "@intlify/vite-plugin-vue-i18n": "^7.0.0",
     "@types/node": "^18.11.16",
     "@unocss/preset-icons": "^0.47.6",
     "@vitejs/plugin-vue": "^4.0.0",
