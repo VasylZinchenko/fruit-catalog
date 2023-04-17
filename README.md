@@ -2,9 +2,9 @@
 
 [DEMO LINK](https://hilarious-eclair-32f1e3.netlify.app)
 
-<p><img src="https://i.ibb.co/jZ3MvhH/Screenshot-1.png" width="400px"></p>
-<p><img src="https://i.ibb.co/P6Rnj9h/Screenshot-2.png" width="400px"></p>
-<p><img src="https://i.ibb.co/KzJJCfH/Screenshot-3.png" width="400px"></p>
+<p><img src="https://i.ibb.co/q0bpVrL/Screenshot-1.png" alt="Screenshot-1" border="0"></p>
+<p><img src="https://i.ibb.co/LzfF6pC/Screenshot-2.png" alt="Screenshot-2" border="0"></p>
+<p><img src="https://i.ibb.co/93ZQRpk/Screenshot-3.png" alt="Screenshot-3" border="0"></p>
 ____________
 
 This template should help get you started developing with Vue and Typescript in Vite in a bliss.
