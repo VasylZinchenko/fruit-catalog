@@ -23,7 +23,8 @@
   "menu": {
     "fruits": "Фрукти",
     "compare-list": "Таблиця порівнянь",
-    "wish-list": "Список бажань"
+    "wish-list": "Список бажань",
+    "fruits-list": "Cписок фруктів"
   },
   "family": {
     "musaceae": "Бананові",

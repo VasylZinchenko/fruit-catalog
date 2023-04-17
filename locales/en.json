@@ -23,7 +23,8 @@
   "menu": {
     "fruits": "Fruits",
 		"compare-list": "Compare list",
-		"wish-list": "Wish list"
+		"wish-list": "Wish list",
+		"fruits-list": "Fruits list"
   },
   "family": {
     "musaceae": "Musaceae",
