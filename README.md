@@ -22,7 +22,8 @@ Here you can:
 
 ## Features
 
-- [Vite](https://github.com/vitejs/vite) ⚡️, [Vue](https://github.com/vuejs/vue),
+- [Vite](https://github.com/vitejs/vite) ⚡️, [Vue](https://github.com/vuejs/vue)
+- 🍍Pinia
 - 💨 [UnoCSS](https://github.com/unocss/unocss)
 - 📦 [Components auto importing](https://github.com/antfu/unplugin-vue-components)
 - [i18n](https://github.com/intlify/vue-i18n-next) out of the box 👩‍🎨
