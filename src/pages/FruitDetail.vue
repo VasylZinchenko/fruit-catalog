@@ -30,11 +30,11 @@ const styleCompareButton = computed(() => {
 <template>
   <main>
     <div
-      class="flex flex-wrap ml-auto mr-auto mt-10 {{ dark:bg-gray-900 }} text-white p-4 rounded-lg shadow-md max-w-64rem"
+      class="flex flex-wrap text-black ml-auto mr-auto mt-10 {{ dark:bg-gray-900 dark:text-white p-4 rounded-lg shadow-md}}  max-w-64rem"
     >
       <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/5 mt-4 md:mt-0">
         <img
-          :src="`/${image}`"
+          :src="`${image}`"
           alt="Banana"
           class="w-full object-cover object-center rounded-md shadow-md border-2 border-gray-300"
         />
