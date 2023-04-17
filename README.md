@@ -1,4 +1,4 @@
-<h2>Fruit catalog demo-app</h2>
+<h2>Fruit catalog</h2>
 
 [DEMO LINK](https://hilarious-eclair-32f1e3.netlify.app)
 ____________
