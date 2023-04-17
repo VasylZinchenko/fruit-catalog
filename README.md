@@ -1,3 +1,7 @@
+<h2>Fruit catalog demo-app</h2>
+
+[DEMO LINK](https://hilarious-eclair-32f1e3.netlify.app)
+____________
 # Vitesome 🌬 ⛵️
 
 > A simple opinionated Vue Starter Template with [Vite.js](https://vitejs.dev/)

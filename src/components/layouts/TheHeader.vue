@@ -23,7 +23,7 @@ setTimeout(() => {
 }, 1000);
 </script>
 <template>
-  <header class="text-center border-b-4 border-slate-200 dark:bg-gray-900">
+  <header class="text-center border-b-4 border-slate-200 bg-white dark:bg-gray-900">
     <nav
       class="bg-white border-gray-200 max-w-5xl px-6 m-auto dark:bg-gray-900"
     >
