@@ -1,10 +1,11 @@
 <h2>Fruit catalog</h2>
 
 [DEMO LINK](https://hilarious-eclair-32f1e3.netlify.app)
-____________
-# Vitesome 🌬 ⛵️
 
-> A simple opinionated Vue Starter Template with [Vite.js](https://vitejs.dev/)
+<p><img src="https://i.ibb.co/jZ3MvhH/Screenshot-1.png" width="400px"></p>
+<p><img src="https://i.ibb.co/P6Rnj9h/Screenshot-2.png" width="400px"></p>
+<p><img src="https://i.ibb.co/KzJJCfH/Screenshot-3.png" width="400px"></p>
+____________
 
 This template should help get you started developing with Vue and Typescript in Vite in a bliss.
 
@@ -25,18 +26,4 @@ pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 
 ```
 pnpm i
-```
 pnpm run dev
-```
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Vue in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](#deployment) for more information.
-
-### Deployment
-
-Visit [Netlify](https://app.netlify.com/start) and select your repo, select OK along the way, and your App will be live in a minute.
